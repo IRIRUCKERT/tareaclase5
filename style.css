@@ -1,0 +1,54 @@
+h1 { color:cornflowerblue ;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+h2 {color: cornflowerblue; 
+ 
+}
+
+.quienes-somos {color:rgb(170, 122, 169)
+}
+
+.parte-de-nuestro-equipo {color: rgb(238, 192, 238);
+}
+.TITULO {font-size: 40px;
+font-style: italic;}
+.menu {font-size: 20px;
+}
+.fondo {background-color: whitesmoke ;
+}
+.link {text-decoration: none;}
+
+
+.letra { font-size:  15px;
+margin-bottom: 20px;}
+
+.objetivos {font-size: 20px;
+font-style: italic;
+font-family: Verdana, Geneva, Tahoma, sans-serif;}
+.obj {font-size: 15px;}
+.controldesintomas,.fortalecimientodelaautonomia, .acompañamiento, .intervencion 
+{text-decoration: underline;
+font-size: 20px;
+font-weight: 900;}
+
+.principal {background-color:rgb(236, 240, 243);
+    margin-left: 50px ;
+margin-right: 50px;
+padding-left: 50px;
+padding-right: 50px;
+padding-bottom: 10px;
+padding-top: 10px;
+border: 5px solid rgb(8, 204, 197); 
+
+}
+
+.HEADER {
+     background-color: aliceblue ;
+     
+   }
+.FOOTER{ background-color: rgb(244, 243, 242) ;
+height:50px ;
+
+
+}
